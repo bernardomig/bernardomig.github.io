@@ -1,20 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-13T15:56:02.309Z</updated>
+  <updated>2018-06-13T16:19:27.998Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Bernardo Lourenço</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Post</title>
+    <link href="http://yoursite.com/2018/06/13/first-post/"/>
+    <id>http://yoursite.com/2018/06/13/first-post/</id>
+    <published>2018-06-13T16:13:56.000Z</published>
+    <updated>2018-06-13T16:19:27.998Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Use-gRPC-for-to-programm-friendly-µServices"><a href="#Use-gRPC-for-to-programm-friendly-µServices" class="headerlink" title="Use gRPC for to programm friendly µServices"></a>Use gRPC for to programm friendly µServices</h1><h2 id="Install-gRPC"><a href="#Install-gRPC" class="headerlink" title="Install gRPC"></a>Install gRPC</h2><h2 id="Select-a-nice-language-Go"><a href="#Select-a-nice-language-Go" class="headerlink" title="Select a nice language: Go"></a>Select a nice language: Go</h2><h3 id="Why-choosing-Go"><a href="#Why-choosing-Go" class="headerlink" title="Why choosing Go?"></a>Why choosing Go?</h3><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">    fmt.Println(<span class="string">"HelloWorld!"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Use-gRPC-for-to-programm-friendly-µServices&quot;&gt;&lt;a href=&quot;#Use-gRPC-for-to-programm-friendly-µServices&quot; class=&quot;headerlink&quot; title=&quot;Use gR
+      
+    
+    </summary>
+    
+    
+      <category term="gRPC" scheme="http://yoursite.com/tags/gRPC/"/>
+    
+      <category term="programming" scheme="http://yoursite.com/tags/programming/"/>
+    
+      <category term="microservices" scheme="http://yoursite.com/tags/microservices/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
